@@ -6,13 +6,14 @@ I'm **Prakhar Pathak**, an undergraduate student at **IIT Kanpur** (expected 202
 
 ---
 
-### 🚀 Interests
-- 📱 App Development using **Flutter**
-- 🤖 Machine Learning using **Python**
+###  Interests
+-  App Development using **Flutter**
+-  Machine Learning using **Python**
+-  Data Analytics using **Sql**
 
 ---
 
-### 💻 Programming Languages
+###  Programming Languages
 - Python
 - C
 - C++
