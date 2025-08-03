@@ -7,9 +7,9 @@ I'm **Prakhar Pathak**, an undergraduate student at **IIT Kanpur** (expected 202
 ---
 
 ###  Interests
--  App Development using **Flutter**
 -  Machine Learning using **Python**
 -  Data Analytics using **Sql**
+-  App Development using **Flutter**
 
 ---
 
