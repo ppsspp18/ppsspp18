@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Prakhar Pathak**, an undergraduate student at **IIT Kanpur** (expected 2026).
+Hi, I'm Prakhar Pathak, a B.Tech graduate from IIT Kanpur (Batch of 2026) with a passion for software engineering and AI.
 
 📫 Reach me at: [pathakprakhar18@gmail.com](mailto:pathakprakhar18@gmail.com)
 
